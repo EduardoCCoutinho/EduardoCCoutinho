@@ -10,24 +10,6 @@ Gosto muito de aprender algo novo :seedling:, Sou um FullStack Developer :comput
 <br/> :blush: &nbsp; Posso te ajudar com javascript, Node, React...
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native.
 <br/> :speech_balloon:  &nbsp; Sobre mim: Casado 👩🏻‍❤️‍👨🏻, 26 anos 👨🏻‍💻, Curto tecnologias, games, LoL, Basquete :basketball:, Música :musical_note:...
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=EduardoCCoutinho&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCCoutinho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
 
 :email:: eduardo.coutinho.dev@outlook.com.
 
