@@ -11,16 +11,10 @@ Gosto muito de aprender algo novo :seedling:, Sou um FullStack Developer :comput
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native.
 <br/> :speech_balloon:  &nbsp; Sobre mim: Casado 👩🏻‍❤️‍👨🏻, 26 anos 👨🏻‍💻, Curto tecnologias, games, LoL, Basquete :basketball:, Música :musical_note:...
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCCoutinho&theme=dark&hide_border=false&layout=compact"
-        alt="Linguagens mais usadas"
-      />
-    </td>
-  </tr>
-</table>
+## 🧠 Linguagens que mais uso em contribuições
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 :email:: eduardo.coutinho.dev@outlook.com.
 
