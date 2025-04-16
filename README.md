@@ -16,6 +16,16 @@ Gosto muito de aprender algo novo :seedling:, Sou um FullStack Developer :comput
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+## 🚀 Frameworks & Bibliotecas que mais uso
+
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+![AdonisJS](https://img.shields.io/badge/AdonisJS-%23318C4E?style=for-the-badge&logo=adonisjs&logoColor=white)
+
+> ✨ Sempre contribuindo com o ecossistema fullstack usando ferramentas modernas e bem estruturadas!
+
 :email:: eduardo.coutinho.dev@outlook.com.
 
 ### 👨🏻‍💻 Desenvolvedor
