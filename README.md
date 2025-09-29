@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A277FFE8&vCenter=true&width=435&lines=Hi+There+!%F0%9F%91%8B;I'm+Eduardo+Coutinho)](https://git.io/typing-svg) <br/>
 Sou um FullStack Developer :computer:.
-Gosto muito de aprender algo novo :seedling:, Sou um FullStack Developer :computer:.
-
+Gosto muito de aprender algo novo :seedling:
 
 <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end usando React.
 <br/> :blush: &nbsp; Posso te ajudar com javascript, Node, React...
