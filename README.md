@@ -38,5 +38,9 @@ Gosto muito de aprender algo novo :seedling:
 
 :email:: eduardo.coutinho.dev@outlook.com.
 
+<div align="center">
+  ![snake gif](https://github.com/EduardoCCoutinho/EduardoCCoutinho/blob/output/github-snake-dark.svg)
+</div>
+
 ### 👨🏻‍💻 Desenvolvedor
 Desenvolvido 💜 por Eduardo caldas Coutinho.
