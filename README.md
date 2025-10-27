@@ -22,6 +22,7 @@ Gosto muito de aprender algo novo :seedling:
   <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/AdonisJS-%23318C4E?style=for-the-badge&logo=adonisjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-%239fEAf9?style=for-the-badge&logo=electron&logoColor=black" />
 </div>
 
 <table>
