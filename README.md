@@ -38,7 +38,7 @@ Gosto muito de aprender algo novo :seedling:
 </table>
 
 :email:: eduardo.coutinho.dev@outlook.com.
-<br/>🌐: https://devfolio-27k2.onrender.com
+<br/>🌐: [https://educolt.tech](https://educolt.tech/)
 
 ![snake gif](https://github.com/EduardoCCoutinho/EduardoCCoutinho/blob/output/github-snake-dark.svg)
 
